@@ -1,0 +1,461 @@
+[2020-12-09 11:24:51.484]	运行日志
+[2020-12-09 11:24:51.484]	null
+	---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3224
+	---com.aihua.label.view.LabelPrintFrm.<init>,	line:565
+	---com.aihua.label.view.LabelPrintFrm$1.run,	line:156
+	---java.awt.event.InvocationEvent.dispatch,	line:-1
+	---java.awt.EventQueue.dispatchEventImpl,	line:-1
+	---java.awt.EventQueue.access$500,	line:-1
+	---java.awt.EventQueue$3.run,	line:-1
+	---java.awt.EventQueue$3.run,	line:-1
+	---java.security.AccessController.doPrivileged,	line:-2
+	---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege,	line:-1
+	---java.awt.EventQueue.dispatchEvent,	line:-1
+	---java.awt.EventDispatchThread.pumpOneEventForFilters,	line:-1
+	---java.awt.EventDispatchThread.pumpEventsForFilter,	line:-1
+	---java.awt.EventDispatchThread.pumpEventsForHierarchy,	line:-1
+	---java.awt.EventDispatchThread.pumpEvents,	line:-1
+	---java.awt.EventDispatchThread.pumpEvents,	line:-1
+	---java.awt.EventDispatchThread.run,	line:-1
+[2020-12-09 11:33:20.105]	java.lang.NullPointerException
+---java.awt.EventDispatchThread.run,	line:-1
+[2020-12-09 11:34:02.628]	java.lang.NullPointerException
+---java.awt.EventDispatchThread.run,	line:-1
+[2020-12-09 11:35:21.334]	java.lang.NullPointerException
+---java.awt.EventDispatchThread.run,	line:-1
+[2020-12-09 11:36:47.209]	java.lang.NullPointerException
+---java.awt.EventDispatchThreads.run,	line:-1
+[2020-12-09 11:37:38.297]	null
+---null.fillTable,	line:3224
+---null.<init>,	line:565
+---null.run,	line:156
+---null.dispatch,	line:-1
+---null.dispatchEventImpl,	line:-1
+---null.access$500,	line:-1
+---null.run,	line:-1
+---null.run,	line:-1
+---null.doPrivileged,	line:-2
+---null.doIntersectionPrivilege,	line:-1
+---null.dispatchEvent,	line:-1
+---null.pumpOneEventForFilters,	line:-1
+---null.pumpEventsForFilter,	line:-1
+---null.pumpEventsForHierarchy,	line:-1
+---null.pumpEvents,	line:-1
+---null.pumpEvents,	line:-1
+---null.run,	line:-1
+[2020-12-09 11:39:20.611]	null
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3224
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:565
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:156
+---java.awt.event.InvocationEvent.dispatch,	line:-1
+---java.awt.EventQueue.dispatchEventImpl,	line:-1
+---java.awt.EventQueue.access$500,	line:-1
+---java.awt.EventQueue$3.run,	line:-1
+---java.awt.EventQueue$3.run,	line:-1
+---java.security.AccessController.doPrivileged,	line:-2
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege,	line:-1
+---java.awt.EventQueue.dispatchEvent,	line:-1
+---java.awt.EventDispatchThread.pumpOneEventForFilters,	line:-1
+---java.awt.EventDispatchThread.pumpEventsForFilter,	line:-1
+---java.awt.EventDispatchThread.pumpEventsForHierarchy,	line:-1
+---java.awt.EventDispatchThread.pumpEvents,	line:-1
+---java.awt.EventDispatchThread.pumpEvents,	line:-1
+---java.awt.EventDispatchThread.run,	line:-1
+[2020-12-09 11:40:10.016]	null
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3224
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:565
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:156
+---java.awt.event.InvocationEvent.dispatch,	line:-1
+---java.awt.EventQueue.dispatchEventImpl,	line:-1
+---java.awt.EventQueue.access$500,	line:-1
+---java.awt.EventQueue$3.run,	line:-1
+---java.awt.EventQueue$3.run,	line:-1
+---java.security.AccessController.doPrivileged,	line:-2
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege,	line:-1
+---java.awt.EventQueue.dispatchEvent,	line:-1
+---java.awt.EventDispatchThread.pumpOneEventForFilters,	line:-1
+---java.awt.EventDispatchThread.pumpEventsForFilter,	line:-1
+---java.awt.EventDispatchThread.pumpEventsForHierarchy,	line:-1
+---java.awt.EventDispatchThread.pumpEvents,	line:-1
+---java.awt.EventDispatchThread.pumpEvents,	line:-1
+---java.awt.EventDispatchThread.run,	line:-1
+[2020-12-09 11:40:56.139]	null
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3224
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:565
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:156
+---java.awt.event.InvocationEvent.dispatch,	line:-1
+---java.awt.EventQueue.dispatchEventImpl,	line:-1
+---java.awt.EventQueue.access$500,	line:-1
+---java.awt.EventQueue$3.run,	line:-1
+---java.awt.EventQueue$3.run,	line:-1
+---java.security.AccessController.doPrivileged,	line:-2
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege,	line:-1
+---java.awt.EventQueue.dispatchEvent,	line:-1
+---java.awt.EventDispatchThread.pumpOneEventForFilters,	line:-1
+---java.awt.EventDispatchThread.pumpEventsForFilter,	line:-1
+---java.awt.EventDispatchThread.pumpEventsForHierarchy,	line:-1
+---java.awt.EventDispatchThread.pumpEvents,	line:-1
+---java.awt.EventDispatchThread.pumpEvents,	line:-1
+---java.awt.EventDispatchThread.run,	line:-1
+[2020-12-09 13:28:02.685]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0,	line:-1
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream,	line:-1
+---java.net.URL.openStream,	line:-1
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:158
+---java.awt.event.InvocationEvent.dispatch,	line:-1
+---java.awt.EventQueue.dispatchEventImpl,	line:-1
+---java.awt.EventQueue.access$500,	line:-1
+---java.awt.EventQueue$3.run,	line:-1
+---java.awt.EventQueue$3.run,	line:-1
+---java.security.AccessController.doPrivileged,	line:-2
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege,	line:-1
+---java.awt.EventQueue.dispatchEvent,	line:-1
+---java.awt.EventDispatchThread.pumpOneEventForFilters,	line:-1
+---java.awt.EventDispatchThread.pumpEventsForFilter,	line:-1
+---java.awt.EventDispatchThread.pumpEventsForHierarchy,	line:-1
+---java.awt.EventDispatchThread.pumpEvents,	line:-1
+---java.awt.EventDispatchThread.pumpEvents,	line:-1
+---java.awt.EventDispatchThread.run,	line:-1
+[2020-12-09 13:29:55.821]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0,	line:-1
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream,	line:-1
+---java.net.URL.openStream,	line:-1
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:158
+---java.awt.event.InvocationEvent.dispatch,	line:-1
+---java.awt.EventQueue.dispatchEventImpl,	line:-1
+---java.awt.EventQueue.access$500,	line:-1
+---java.awt.EventQueue$3.run,	line:-1
+---java.awt.EventQueue$3.run,	line:-1
+---java.security.AccessController.doPrivileged,	line:-2
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege,	line:-1
+---java.awt.EventQueue.dispatchEvent,	line:-1
+---java.awt.EventDispatchThread.pumpOneEventForFilters,	line:-1
+---java.awt.EventDispatchThread.pumpEventsForFilter,	line:-1
+---java.awt.EventDispatchThread.pumpEventsForHierarchy,	line:-1
+---java.awt.EventDispatchThread.pumpEvents,	line:-1
+---java.awt.EventDispatchThread.pumpEvents,	line:-1
+---java.awt.EventDispatchThread.run,	line:-1
+[2020-12-09 13:34:14.859]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:158
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 13:40:59.863]	java.lang.NullPointerException
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 13:41:00.799]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
+[2020-12-09 13:41:05.115]	java.lang.NullPointerException
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 13:41:05.916]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
+[2020-12-09 13:41:14.682]	java.lang.NullPointerException
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 13:41:25.670]	java.lang.NullPointerException
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 13:41:26.513]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
+[2020-12-09 13:42:15.559]	java.lang.NullPointerException
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 13:42:16.604]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
+[2020-12-09 13:42:33.609]	java.lang.NullPointerException
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 14:05:54.321]	java.lang.NullPointerException
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 14:05:55.258]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
+[2020-12-09 14:45:15.754]	java.lang.NullPointerException
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 14:45:16.781]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
+[2020-12-09 14:45:37.491]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$65.actionPerformed,	line:1789
+---javax.swing.AbstractButton.fireActionPerformed
+---javax.swing.AbstractButton$Handler.actionPerformed
+---javax.swing.DefaultButtonModel.fireActionPerformed
+---javax.swing.DefaultButtonModel.setPressed
+---javax.swing.AbstractButton.doClick
+---javax.swing.plaf.basic.BasicMenuItemUI.doClick
+---javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased
+---java.awt.Component.processMouseEvent
+---javax.swing.JComponent.processMouseEvent
+---java.awt.Component.processEvent
+---java.awt.Container.processEvent
+---java.awt.Component.dispatchEventImpl
+---java.awt.Container.dispatchEventImpl
+---java.awt.Component.dispatchEvent
+---java.awt.LightweightDispatcher.retargetMouseEvent
+---java.awt.LightweightDispatcher.processMouseEvent
+---java.awt.LightweightDispatcher.dispatchEvent
+---java.awt.Container.dispatchEventImpl
+---java.awt.Window.dispatchEventImpl
+---java.awt.Component.dispatchEvent
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue$4.run
+---java.awt.EventQueue$4.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 23:38:06.473]	java.sql.SQLException: Operation not allowed after ResultSet closed
+---com.mysql.jdbc.SQLError.createSQLException,	line:965
+---com.mysql.jdbc.SQLError.createSQLException,	line:898
+---com.mysql.jdbc.SQLError.createSQLException,	line:887
+---com.mysql.jdbc.SQLError.createSQLException,	line:861
+---com.mysql.jdbc.ResultSetImpl.checkClosed,	line:743
+---com.mysql.jdbc.ResultSetImpl.next,	line:6288
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-09 23:38:27.747]	java.net.ConnectException: Connection timed out: connect
+---java.net.DualStackPlainSocketImpl.connect0
+---java.net.DualStackPlainSocketImpl.socketConnect
+---java.net.AbstractPlainSocketImpl.doConnect
+---java.net.AbstractPlainSocketImpl.connectToAddress
+---java.net.AbstractPlainSocketImpl.connect
+---java.net.PlainSocketImpl.connect
+---java.net.SocksSocketImpl.connect
+---java.net.Socket.connect
+---java.net.Socket.connect
+---sun.net.NetworkClient.doConnect
+---sun.net.www.http.HttpClient.openServer
+---sun.net.www.http.HttpClient.openServer
+---sun.net.www.http.HttpClient.<init>
+---sun.net.www.http.HttpClient.New
+---sun.net.www.http.HttpClient.New
+---sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient
+---sun.net.www.protocol.http.HttpURLConnection.plainConnect0
+---sun.net.www.protocol.http.HttpURLConnection.plainConnect
+---sun.net.www.protocol.http.HttpURLConnection.connect
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run

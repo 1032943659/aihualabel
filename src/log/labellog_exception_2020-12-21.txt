@@ -1,0 +1,166 @@
+[2020-12-21 13:39:56.615]	运行日志
+[2020-12-21 13:39:56.615]	java.sql.SQLException: Operation not allowed after ResultSet closed
+---com.mysql.jdbc.SQLError.createSQLException,	line:965
+---com.mysql.jdbc.SQLError.createSQLException,	line:898
+---com.mysql.jdbc.SQLError.createSQLException,	line:887
+---com.mysql.jdbc.SQLError.createSQLException,	line:861
+---com.mysql.jdbc.ResultSetImpl.checkClosed,	line:743
+---com.mysql.jdbc.ResultSetImpl.next,	line:6288
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-21 13:40:02.474]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
+[2020-12-21 13:52:34.385]	java.sql.SQLException: Operation not allowed after ResultSet closed
+---com.mysql.jdbc.SQLError.createSQLException,	line:965
+---com.mysql.jdbc.SQLError.createSQLException,	line:898
+---com.mysql.jdbc.SQLError.createSQLException,	line:887
+---com.mysql.jdbc.SQLError.createSQLException,	line:861
+---com.mysql.jdbc.ResultSetImpl.checkClosed,	line:743
+---com.mysql.jdbc.ResultSetImpl.next,	line:6288
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3228
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:569
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-21 13:52:34.828]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
+[2020-12-21 14:01:23.158]	java.sql.SQLException: Operation not allowed after ResultSet closed
+---com.mysql.jdbc.SQLError.createSQLException,	line:965
+---com.mysql.jdbc.SQLError.createSQLException,	line:898
+---com.mysql.jdbc.SQLError.createSQLException,	line:887
+---com.mysql.jdbc.SQLError.createSQLException,	line:861
+---com.mysql.jdbc.ResultSetImpl.checkClosed,	line:743
+---com.mysql.jdbc.ResultSetImpl.next,	line:6288
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3229
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:570
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-21 14:01:23.839]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
+[2020-12-21 14:03:17.644]	java.sql.SQLException: Operation not allowed after ResultSet closed
+---com.mysql.jdbc.SQLError.createSQLException,	line:965
+---com.mysql.jdbc.SQLError.createSQLException,	line:898
+---com.mysql.jdbc.SQLError.createSQLException,	line:887
+---com.mysql.jdbc.SQLError.createSQLException,	line:861
+---com.mysql.jdbc.ResultSetImpl.checkClosed,	line:743
+---com.mysql.jdbc.ResultSetImpl.next,	line:6288
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3229
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:570
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-21 14:03:18.351]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
+[2020-12-21 14:44:13.730]	java.sql.SQLException: Operation not allowed after ResultSet closed
+---com.mysql.jdbc.SQLError.createSQLException,	line:965
+---com.mysql.jdbc.SQLError.createSQLException,	line:898
+---com.mysql.jdbc.SQLError.createSQLException,	line:887
+---com.mysql.jdbc.SQLError.createSQLException,	line:861
+---com.mysql.jdbc.ResultSetImpl.checkClosed,	line:743
+---com.mysql.jdbc.ResultSetImpl.next,	line:6288
+---com.aihua.label.view.LabelPrintFrm.fillTable,	line:3229
+---com.aihua.label.view.LabelPrintFrm.<init>,	line:570
+---com.aihua.label.view.LabelPrintFrm$1.run,	line:155
+---java.awt.event.InvocationEvent.dispatch
+---java.awt.EventQueue.dispatchEventImpl
+---java.awt.EventQueue.access$500
+---java.awt.EventQueue$3.run
+---java.awt.EventQueue$3.run
+---java.security.AccessController.doPrivileged
+---java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege
+---java.awt.EventQueue.dispatchEvent
+---java.awt.EventDispatchThread.pumpOneEventForFilters
+---java.awt.EventDispatchThread.pumpEventsForFilter
+---java.awt.EventDispatchThread.pumpEventsForHierarchy
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.pumpEvents
+---java.awt.EventDispatchThread.run
+[2020-12-21 14:44:14.294]	java.io.FileNotFoundException: http://ftp6383756.host116.sanfengyun.cn/version/version.json
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream0
+---sun.net.www.protocol.http.HttpURLConnection.getInputStream
+---java.net.URL.openStream
+---com.aihua.label.util.UpgraderUtil.sendGetRequest,	line:136
+---com.aihua.label.util.UpgraderUtil.getnewversion,	line:85
+---com.aihua.label.util.UpgraderUtil.autoupgrade,	line:98
+---com.aihua.label.view.LabelPrintFrm$1$1.run,	line:161
+---java.lang.Thread.run
